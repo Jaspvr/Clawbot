@@ -1,9 +1,9 @@
 # Clawbot
 This repository contains all the code used to test various functionalities of a robot, along with the program to autonomously complete the robot's task. All programs have a commented description of what they are used for and what the robot does in response. 
 
-#Video: https://youtube.com/shorts/B7qSsS3bvRs
+# Video: https://youtube.com/shorts/B7qSsS3bvRs
 
-#Details
+# Details
 The robot's final task was to:
 - Detect a locate and detect a target in a walled arena
 - Detect and handle walls and obstructions
